@@ -104,20 +104,11 @@ If you are feeling generous you could send some change to 13MAejQp1193VPdUFexTh6
 bugfix: parsing of blockchain.info version 2 format
 
 - v1.4.1
-Bug fix:
+Bug fix: fix missing context menu on Windows
 
-fix missing context menu on Windows
-Enhancement:
-
-file dialog with option to show hidden files
+Enhancement: file dialog with option to show hidden files
 quick buttons for important folders like %APPDATA% on Windows or ~/Library/Application Support/ on Mac.
 For the convenience of Windows user from now on there will also be an .exe version in case your Java installation is not configured to run .jar files on double-click. They are optional, you can either use the .jar version if it works or the .exe version if .jar does not work, you don't need both. They are absolutely identical in functionality, the only difference is they have an .exe starter (built with launch4j).
-
-sha256sum wallet-key-tool.jar
-2b5dbda86b8ea5ae05010ad598767fe1e0753b08efd3fa3c6629f49b053c350a wallet-key-tool.jar
-
-sha256sum wallet-key-tool.exe
-63753320482ad15927ef13ba66b37d72c0adf2658fb1a8f2317d6394afaf7382 wallet-key-tool.exe
 
 Assets 4
 
