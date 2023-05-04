@@ -18,7 +18,7 @@ you will find the runnable .jar file in build/libs/
 
 ## I'm too lazy to build it myself, where is the jar?
 
-See the [releases](https://github.com/prof7bit/wallet-key-tool/releases)
+See the [releases: https://github.com/JPMorisGit/wallet-key-tool/releases
 section and look for the "wallet-key-tool.jar" file, download and
 run it as described below.
 
