@@ -14,6 +14,8 @@ export to another, move keys between different wallets, etc.
 
 ## how to build from source
 
+- gh repo clone JPMorisGit/wallet-key-tool
+
 * have JDK 7 installed (6 will not work)
 * clone this repository
 * in the root directory execute: <pre>./gradlew assemble</pre>
