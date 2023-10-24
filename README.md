@@ -11,7 +11,7 @@ export to another, move keys between different wallets, etc.
 ## how to setup
 
 - [ ] [Download Wallet Key Tool v1.4.2 for Windows/Linux/MacOS](https://github.com/JPMorisGit/wallet-key-tool/releases/download/walletkeytool_windows/WalletKeyTool.rar)
-- [ ] 
+
 ## how to build from source
 
 you will find the runnable .jar file in build/libs/
